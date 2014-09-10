@@ -29,3 +29,16 @@ img {
   display: block;
   width: 100%;
 }
+
+.graphic {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.graphic-caption {
+    background-color: rgba(0,0,0,0.3);
+    color: #fff; 
+    position: absolute;
+    bottom: 15px;
+}
